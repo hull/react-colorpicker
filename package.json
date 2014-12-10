@@ -28,8 +28,10 @@
   },
   "homepage": "https://github.com/stayradiated/react-colorpicker",
   "dependencies": {
-    "colr": "^1.2.1",
-    "react": "^0.11.2"
+    "colr": "^1.2.1"
+  },
+  "peerDependencies": {
+    "react": ">=0.11.2"
   },
   "devDependencies": {
     "browserify": "^6.1.0",
@@ -40,6 +42,7 @@
     "gulp-sass": "^1.1.0",
     "gulp-streamify": "^0.0.5",
     "gulp-uglify": "^1.0.1",
+    "react": "^0.11.2",
     "reactify": "^0.14.0",
     "vinyl-source-stream": "^1.0.0",
     "watchify": "^2.0.0"
