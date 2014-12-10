@@ -27,6 +27,11 @@
     "url": "https://github.com/stayradiated/react-colorpicker/issues"
   },
   "homepage": "https://github.com/stayradiated/react-colorpicker",
+  "browserify": {
+    "transform": [
+      [ "reactify", { "extensions" : [".jsx", ".js"] } ]
+    ]
+  },
   "dependencies": {
     "colr": "^1.2.1"
   },
