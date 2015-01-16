@@ -1,6 +1,5 @@
 {
-  "name": "react-colorpicker",
-  "version": "0.3.8",
+  "name": "colorpicker",
   "description": "Colorpicker for React",
   "main": "lib/index.js",
   "scripts": {
