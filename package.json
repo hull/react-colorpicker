@@ -1,5 +1,5 @@
 {
-  "name": "colorpicker",
+  "name": "react-colorpicker",
   "description": "Colorpicker for React",
   "main": "lib/index.js",
   "scripts": {
